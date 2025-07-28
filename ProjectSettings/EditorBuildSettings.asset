@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ScenesForGame/ShootingRange.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 86e44be528659084f96760ba5dc4141f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 02f387920d2378448899aedc1892164d, type: 2}
+  m_UseUCBPForAssetBundles: 0
